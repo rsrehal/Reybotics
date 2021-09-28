@@ -10,15 +10,16 @@ The goal of this lab is to get familar with our development environment. We will
 4. Set up Fusion360
 
 ## Instructions
-1. first task
-  a. first task subpoint
-  b. first task subpoint
-2. second task
-  a. second task subpoint
-  b. second task subpoint
+1. first task  
+   a. first task subpoint  
+   b. first task subpoint  
+2. second task  
+  a. second task subpoint  
+  b. second task subpoint  
 
 ## Resources
---- |
-Link1
-Link2
-Link3
+Description | Link
+--- | ---
+Link1 |
+Link2 |
+Link3 | 
