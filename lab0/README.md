@@ -1,6 +1,5 @@
 # Reybotics Class - Lab 0
-## Overview
-### Getting familiar with Git and our development tools
+## Getting familiar with Git and our development tools
 
 The goal of this lab is to get familar with our development environment. We will be using Git to faciliate code review as well as resource downloading. Git and other revision control software packages are crucial in industry for software collaboration and development, and it is a good skill to slot in and learn through the tasks of this course. 
 
@@ -12,11 +11,11 @@ The goal of this lab is to get familar with our development environment. We will
 
 ## Instructions
 1. first task
-	a. first task subpoint
-	b. first task subpoint
+  a. first task subpoint
+  b. first task subpoint
 2. second task
-	a. second task subpoint
-	b. second task subpoint
+  a. second task subpoint
+  b. second task subpoint
 
 ## Resources
 --- |
