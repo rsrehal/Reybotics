@@ -31,6 +31,6 @@
 *.out
 *.app
 
-# .bak files
+# Backup Files
 *.bak
 *.md.bak
