@@ -65,7 +65,7 @@ Order course materials (hardware)	| Task 5a 		|		|
 3. **Set up Arduino development environment**    
   a. We will be setting up the Arduino development environment for use in the rest of this course.    
   b. Grab your Arduino Uno, computer, and a USB type B to USB type A cable (the one that can plug into the Arduino Uno).  
-  c. Download the Arduino IDE software from https://https://www.arduino.cc/en/software  
+  c. Download the Arduino IDE software from https://www.arduino.cc/en/software  
   d. Install the Arduino IDE software. If you already have it installed, ensure it has been updated to the latest version (v1.8.16 as of this writing).  
   e. The tricky part of the setup happens if you need to install additional Virtual COM port drivers. This driver enables the USB connection to act as a simple Serial connection. If you have a 3rd party Arduino, then there will be extra steps that you need to take. Especially if your Arduino Uno uses the CH430 chip. If you have a board straight from the Arduino company itself, you likely won't have any additonal installation steps.   
   f. If you end up needing to install the CH430 drivers, search online for the extra steps required before proceeding.  
