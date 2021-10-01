@@ -16,7 +16,7 @@ You will be uploading supporting material to show that you have completed delive
 
 Deliverable | Associated Task | Complete? |	Supporting Material (video links, etc. if applicable)
 ---			|	---		|	---		|	---		|
-Update row with an "Y" right here, one column over --> | Task 2f		|	"change me!"	|
+Update row with an "Y" right here, one column over --> | Task 2f		|	Y	|
 Update main project's README.md to say "David was here" in visitor section | Task 2m	|		|
 Update main project's README.md to say "David was here again" in visitor section | Task	2aa	|		|
 Program Arduino successfully 		| Task 3r		|		| 
