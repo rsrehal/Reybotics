@@ -9,13 +9,13 @@ This project is structured as a series of steps which will build our knowledge o
 
 Assignment | Description | Due Date 
 --- | --- | ---
-Lab 0 | Setting up development tools, including Git environment | October 4, 2021?
-Lab 1 | Basic Arduino Control | October 7, 2021?
-Lab 2 | CAD Design of Chassis + 3D Printing | October 11, 2021?
-Lab 3 | Motor Control | October 14, 2021?
-Lab 4 | Sensor Interfacing | October 18, 2021?
-Lab 5 | Base Robot Integration | October 21, 2021?
-Lab 6 | Enhancing Robot Functionality to Final Stage | October 28+, 2021?
+Lab 0 | Setting up development tools, including Git environment | October 4, 2021
+Lab 1 | Basic Arduino Control | October 7, 2021
+Lab 2 | CAD Design of Chassis + 3D Printing | October 11, 2021
+Lab 3 | Motor Control | October 14, 2021
+Lab 4 | Sensor Interfacing | October 18, 2021
+Lab 5 | Base Robot Integration | October 21, 2021
+Lab 6 | Enhancing Robot Functionality to Final Stage | October 28+, 2021
 
 ## Required Materials
 
