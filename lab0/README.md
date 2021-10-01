@@ -19,11 +19,11 @@ Deliverable | Associated Task | Complete? |	Supporting Material (video links, et
 Update row with an "Y" right here, one column over --> | Task 2f		|	Y	|
 Update main project's README.md to say "David was here" in visitor section | Task 2m	|	Y	|
 Update main project's README.md to say "David was here again" in visitor section | Task	2aa	|	Y	|
-Program Arduino successfully 		| Task 3r		|		| 
+Program Arduino successfully 		| Task 3r		|	Y	| 
 Fusion360 Design					| Task 4f 		|		| 
 Import CAD design to Cura and slice | Task 4n 		|		| 
 Export and upload design files		| Task 4o 		|		| 
-Order course materials (hardware)	| Task 5a 		|		| 
+Order course materials (hardware)	| Task 5a 		|	Y	| 
 
 ## Tasks + Instructions  
 1. **Set up Github access**    
