@@ -20,9 +20,9 @@ Update row with an "Y" right here, one column over --> | Task 2f		|	Y	|
 Update main project's README.md to say "David was here" in visitor section | Task 2m	|	Y	|
 Update main project's README.md to say "David was here again" in visitor section | Task	2aa	|	Y	|
 Program Arduino successfully 		| Task 3r		|	Y	| 
-Fusion360 Design					| Task 4f 		|		| 
-Import CAD design to Cura and slice | Task 4n 		|		| 
-Export and upload design files		| Task 4o 		|		| 
+Fusion360 Design					| Task 4f 		|	Y	| 
+Import CAD design to Cura and slice | Task 4n 		|	Y	| 
+Export and upload design files		| Task 4o 		|	Y	| 
 Order course materials (hardware)	| Task 5a 		|	Y	| 
 
 ## Tasks + Instructions  
