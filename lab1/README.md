@@ -18,12 +18,12 @@ You will be uploading supporting material to show that you have completed delive
 
 Deliverable | Associated Task | Complete? |	Supporting Material (video links, etc. if applicable)
 ---			|	---		|	---		|	---		|
-Program Arduino to blink an LED 						| Task 1f		|		| 
-Program Arduino to vary brightness of an LED			| Task 2f 		|		| 
-Program Arduino to turn a motor on and off				| Task 3g 		|		| 
-Program Arduino to vary speed of the motor				| Task 4g 		|		| 
-Turn a motor on/off via serial keyboard commands		| Task 5i 		|		| 
-Control the motor speed  via serial keyboard commands	| Task 5k 		|		| 
+Program Arduino to blink an LED 						| Task 1f		|	Y	| https://youtu.be/h0T1jSMxEsI
+Program Arduino to vary brightness of an LED			| Task 2f 		|	Y	| https://youtu.be/fZ7RzAxbvsU
+Program Arduino to turn a motor on and off				| Task 3g 		|	Y	| https://youtu.be/FuLhTuPbYC4
+Program Arduino to vary speed of the motor				| Task 4g 		|	Y	| https://youtu.be/HrGDyINYwu8
+Turn a motor on/off via serial keyboard commands		| Task 5i 		|	Y	| https://youtu.be/hTT4gs5bxDo
+Control the motor speed  via serial keyboard commands	| Task 5k 		|	Y	| https://youtu.be/hTT4gs5bxDo
 Optional: showcase servo motor control					| Task 6e 		|		| 
 Optional: show case LCD interface						| Task 7f 		|		| 
 
@@ -31,7 +31,7 @@ Optional: show case LCD interface						| Task 7f 		|		|
 
 ## Tasks + Instructions  
 1. **Make an LED blink on and off**  
-  a. /n this task we will write a simply program for the Arduino to make an LED blink.  
+  a. In this task we will write a simply program for the Arduino to make an LED blink.  
   b. Find a resisor and LED to use with the Arduino.   
   c. Size the resistor appropriately using Ohm's law and the approximate voltage drop of the LED. The output value of the Arduino pins will be +5V when high.  
   d. If there is not a large number of resistors to choose from, select one with value between 100-1kohms.  
@@ -112,7 +112,7 @@ Description	| Link
 --- | ---
 Arduino Tutorial 1: Setting Up and Programming the Arduino for Absolute Beginners | https://www.youtube.com/watch?v=fJWR7dBuc18
 An Introduction to Arduino Uno Pinout	|	https://www.circuito.io/blog/arduino-uno-pinout/
-Arduino Uno Pins – A Complete Practical Guide	|	https://roboticsbackend.com/arduino-uno-pins-a-complete-practical-guide/
+Arduino Uno Pins: A Complete Practical Guide	|	https://roboticsbackend.com/arduino-uno-pins-a-complete-practical-guide/
 Arduino UNO Pinout, Specifications, Board Layout, Pin Description	|	https://www.electronicshub.org/arduino-uno-pinout/
 How to Use a Breadboard	| 	https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard
 AQM0802A LCD Arduino Library	| 	https://www.arduino.cc/reference/en/libraries/fabo-213-lcd-mini-aqm0802a/
