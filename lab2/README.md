@@ -17,8 +17,8 @@ You will be uploading supporting material to show that you have completed delive
 Deliverable | Associated Task | Complete? |	Supporting Material (video links, etc. if applicable)
 ---			|	---		|	---		|	---		|
 Create a 3D model of a robot chassis 				| Task 1m		|		|https://autode.sk/3ttyKPH 
-3D print the robot chassis							| Task 2e 		|		| https://photos.google.com/album/AF1QipPESbQ7jl70Bg9rsQYSOG9W2c3m4Va4QJak1rT0
-Assemble chassis with motors						| Task 3g 		|		| https://photos.google.com/album/AF1QipPESbQ7jl70Bg9rsQYSOG9W2c3m4Va4QJak1rT0
+3D print the robot chassis							| Task 2e 		|		| https://photos.app.goo.gl/w147dNkJ5MmckfsQ7
+Assemble chassis with motors						| Task 3g 		|		| https://photos.app.goo.gl/w147dNkJ5MmckfsQ7
 Optional: 3D print alternative wheels				| Task 4c 		|		| 
 Optional: Document 3D model of four bar linkage		| Task 5d 		|		| 
 Optional: 3D print and assemble four bar linkage	| Task 5e 		|		| 
