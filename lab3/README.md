@@ -84,10 +84,10 @@ Stretch goal: show power source detection working					| Task 7h 		|		|
   b. Our general approach to this will be to tap off of the motor driver board's voltage input connection, use a resistor divider to scale down the voltage below 5V max, and then use the Arduino's analogRead() functionality to read in the voltage.  
   c. I would recommend using a resistor dividier that scaled down the input voltage by either 1/2 or 1/4.  
   d. Make the appropriate connections using jumper wire and components on your breadboard.  
-  e. Create a simple Arduino program to read in the voltage from this monitor circuit. Be sure to scale the voltage back up before repording out the value via the serial port. 
-  f. Be sure to add and upload your code to this repo as "4_manual_rc_control.ino".
-  g. Once this is working, integrate this functionality into the code developed in Task 5 (or Task 6 if it was completed) Be sure to add and upload your code to this repo as "6_voltage_monitoring.ino".
-  h. Take a video of the results showing both possible power sources connected and link to it in the Deliverables section. 
+  e. Create a simple Arduino program to read in the voltage from this monitor circuit. Be sure to scale the voltage back up before repording out the value via the serial port.  
+  f. Be sure to add and upload your code to this repo as "4_manual_rc_control.ino".  
+  g. Once this is working, integrate this functionality into the code developed in Task 5 (or Task 6 if it was completed) Be sure to add and upload your code to this repo as "6_voltage_monitoring.ino".  
+  h. Take a video of the results showing both possible power sources connected and link to it in the Deliverables section.   
 
 
 ## Resources
@@ -97,7 +97,7 @@ How to use the L298N Motor Driver	 | 	https://create.arduino.cc/projecthub/ryanc
 How To Control a DC Motor with an Arduino	|	https://www.allaboutcircuits.com/projects/control-a-motor-with-an-arduino/
 Arduino Lesson 13. DC Motors	|	https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors
 DC Motors Control Using Arduino PWM with L298N H-Bridge	|	https://create.arduino.cc/projecthub/Fouad_Roboticist/dc-motors-control-using-arduino-pwm-with-l298n-h-bridge-d6ec91
-L298N Motor Driver – Arduino Interface, How It Works, Codes, Schematics	|	https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/
+L298N Motor Driver Â– Arduino Interface, How It Works, Codes, Schematics	|	https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/
 Use an IR Remote Transmitter and Receiver with Arduino	|	https://create.arduino.cc/projecthub/electropeak/use-an-ir-remote-transmitter-and-receiver-with-arduino-1e6bc8
 How to Set Up an IR Remote and Receiver on an Arduino	| https://www.circuitbasics.com/arduino-ir-remote-receiver-tutorial/
 Arduino Infrared Remote Tutorial	|	https://www.instructables.com/Arduino-Infrared-Remote-tutorial/
