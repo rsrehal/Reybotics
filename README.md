@@ -11,7 +11,7 @@ Assignment | Description | Due Date
 --- | --- | ---
 Lab 0 | Setting up development tools, including Git environment | October 4, 2021
 Lab 1 | Basic Arduino Control | October 7, 2021
-Lab 2 | CAD Design of Chassis + 3D Printing | TBD
+Lab 2 | CAD Design of Chassis + 3D Printing | January 14, 2021  
 Lab 3 | Motor Control | TBD
 Lab 4 | Sensor Interfacing | TBD
 Lab 5 | Base Robot Integration | TBD
