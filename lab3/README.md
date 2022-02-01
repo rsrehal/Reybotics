@@ -18,7 +18,7 @@ You will be uploading supporting material to show that you have completed delive
 
 Deliverable | Associated Task | Complete? |	Supporting Material (video links, etc. if applicable)
 ---			|	---		|	---		|	---		|
-Successfully integrate motor driver shield 							| Task 1h		|		| 
+Successfully integrate motor driver shield 							| Task 1h		|	Y	| https://photos.app.goo.gl/EmVFbcX55jcfHNDJA
 Program Arduino to accept serial input controls						| Task 2b 		|		| 
 Receive remote control button commands and send back on serial port	| Task 3i 		|		| 
 Program Arduino to control robot manually with remote control		| Task 4e 		|		| 
